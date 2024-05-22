@@ -4,7 +4,7 @@ public class BookDetails {
 	public static void main(String[] args) {
 
 		PrintBook printBook = new PrintBook();
-		printBook.getDetails("Harry Potter", "J.W.Morgan", 120.00);
+		printBook.getDetails("Harry Potter", "J.K.Rowling", 120.00);
 
 	}
 
